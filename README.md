@@ -6,7 +6,7 @@ Passionate about turning complex workflows into simple, automated solutions that
 ## Featured Projects
 
 [![Techpresso](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=techpresso-video-generator&theme=radical)](https://github.com/joalvis1996/techpresso-video-generator)
-[![HeyHi](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=HeyHi&theme=radical)](https://github.com/joalvis1996/archive-saver-web)
+[![HeyHi](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=archive-saver-web&theme=radical)](https://github.com/joalvis1996/archive-saver-web)
 
 ## Stack
 
