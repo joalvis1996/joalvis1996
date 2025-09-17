@@ -23,9 +23,8 @@ Passionate about turning complex workflows into simple, automated solutions that
 ### Others
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat&logo=Agora&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-1E90FF?style=flat&logo=deepgram&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![NHN](https://img.shields.io/badge/NHN-000000?style=flat&logoColor=white)
-
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joalvis1996&layout=compact&theme=radical)
