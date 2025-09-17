@@ -3,6 +3,12 @@
 I specialize in building web systems and designing **AI-driven solutions**.  
 Passionate about turning complex workflows into simple, automated solutions that actually help people.  
 
+## Featured Projects
+
+[![Techpresso](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=techpresso-video-generator&theme=radical)](https://github.com/joalvis1996/techpresso-video-generator)
+[![HeyHi](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=HeyHi&theme=radical)](https://github.com/joalvis1996/HeyHi)
+
+
 ## Stack
 
 ### Web Development
