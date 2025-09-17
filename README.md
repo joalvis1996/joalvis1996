@@ -1,11 +1,11 @@
-# 👨‍💻 Backend Developer | 🤖 AI & RAG Engineer
+# Backend Developer | AI & RAG Engineer
 
 I specialize in building web systems and designing **AI-driven solutions**.  
 Passionate about turning complex workflows into simple, automated solutions that actually help people.  
 
 ---
 
-## 🔧 Tech Stack
+## Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -19,5 +19,5 @@ Passionate about turning complex workflows into simple, automated solutions that
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joalvis1996&layout=compact&theme=radical)
