@@ -8,8 +8,6 @@ Passionate about turning complex workflows into simple, automated solutions that
 [![Techpresso](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=techpresso-video-generator&theme=radical)](https://github.com/joalvis1996/techpresso-video-generator)
 [![HeyHi](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=HeyHi&theme=radical)](https://github.com/joalvis1996/HeyHi)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joalvis1996&theme=tokyo-night)
-
 ## Stack
 
 ### Web Development
