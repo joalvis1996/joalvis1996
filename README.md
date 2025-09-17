@@ -16,6 +16,7 @@ Passionate about turning complex workflows into simple, automated solutions that
 
 ### 🤖 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-(Retrieval--Augmented--Generation)-blueviolet?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2E77BC?style=flat&logo=chainlink&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=flat&logo=qdrant&logoColor=white)
 
