@@ -3,8 +3,6 @@
 I specialize in building web systems and designing **AI-driven solutions**.  
 Passionate about turning complex workflows into simple, automated solutions that actually help people.  
 
----
-
 ## Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -16,8 +14,6 @@ Passionate about turning complex workflows into simple, automated solutions that
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat&logo=Agora&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joalvis1996&layout=compact&theme=radical)
