@@ -26,6 +26,7 @@ Passionate about turning complex workflows into simple, automated solutions that
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=flat&logo=qdrant&logoColor=white)
 
 ### Others
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat&logo=OpenAI&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
 ![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat&logo=Agora&logoColor=white)
 ![Deepgram](https://img.shields.io/badge/Deepgram-1E90FF?style=flat&logo=deepgram&logoColor=white)
