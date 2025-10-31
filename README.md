@@ -33,4 +33,4 @@ Passionate about turning complex workflows into simple, automated solutions that
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joalvis1996&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joalvis1996&layout=compact&theme=radical&card_width=850&hide_border=true&border_radius=10)
