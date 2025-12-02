@@ -23,6 +23,7 @@ Passionate about turning complex workflows into simple, automated solutions that
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-blueviolet?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2E77BC?style=flat&logo=chainlink&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-7C3AED?style=flat&logo=langchain&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=flat&logo=qdrant&logoColor=white)
 
 ### Others
