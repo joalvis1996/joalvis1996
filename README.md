@@ -1,12 +1,3 @@
-# Developer
-
-<!-- ## Featured Projects
-
-[![Techpresso](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=techpresso-video-generator&theme=radical)](https://github.com/joalvis1996/techpresso-video-generator)
-[![HeyHi](https://github-readme-stats.vercel.app/api/pin/?username=joalvis1996&repo=archive-saver-web&theme=radical)](https://github.com/joalvis1996/archive-saver-web) -->
-
-## Stack
-
 ### Web Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
